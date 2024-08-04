@@ -1,0 +1,23 @@
+"submit vulnerability report" | "powered by bugcrowd" | "powered by hackerone"
+site:*.gov.* "responsible disclosure"
+intext:"we take security very seriously"
+site:*.edu intext:security report vulnerability
+"cms" bug bounty
+"If you find a security issue" "reward"
+"responsible disclosure" intext:"you may be eligible for monetary compensation"
+inurl: "responsible disclosure", "bug bounty", "bugbounty"
+intext: we offer a bounty
+site:*.br responsible disclosure
+site:*.at responsible disclosure
+site:*.be responsible disclosure
+site:*.au responsible disclosure
+site:*/security.txt "bounty"
+inurl:bug bounty intext:"rupees"
+inurl:bug bounty intext:"₹"
+inurl:bug bounty intext:"$"
+inurl:bug bounty intext:"EUR"
+inurl:responsible disclosure intext:"INR"
+inurl : /bitcon bug bounty
+inurl : btc security rewards
+index of "responsible disclosure"
+inurl : /responsible-disclosure/ USD
